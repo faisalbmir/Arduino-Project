@@ -19,29 +19,43 @@ DIY Builder. “How To Make A DIY Arduino Obstacle Avoiding Car At Home” Onlin
 All the contents in the program
 
 # Requirements and Materials
--Motorized Nerf gun or water gun
+- Motorized Nerf gun or water gun
 
--Arduino
+- Arduino
 
--USB connector cable/power supply
+- USB connector cable/power supply
 
--Relay (coil current of 30mA or less)
+- Relay (coil current of 30mA or less)
 
-Jumper Wires
-Small diodes
-Perf board
-Small machine screws
-Motor Driver Shield
-4x Wheels
-4x TT Gear Motor
-Servo Motor
-Ultrasonic Sensor
-2x Battery
-Battery Holder
-Male and Female Jumper Wire
-DC Power Switch
-A large wooden base that everything is going to be on top off
-Soldering Iron
+- Jumper Wires
+
+- Small diodes
+
+- Perf board
+
+- Small machine screws
+
+- Motor Driver Shield
+
+- 4x Wheels
+
+- 4x TT Gear Motor
+
+- Servo Motor
+
+- Ultrasonic Sensor
+
+- 2x Battery
+
+- Battery Holder
+
+- Male and Female Jumper Wire
+
+- DC Power Switch
+
+- A large wooden base that everything is going to be on top off
+
+- Soldering Iron
 
 # Build Instructions
 How to build it.
