@@ -20,9 +20,13 @@ All the contents in the program
 
 # Requirements and Materials
 -Motorized Nerf gun or water gun
+
 -Arduino
+
 -USB connector cable/power supply
+
 -Relay (coil current of 30mA or less)
+
 Jumper Wires
 Small diodes
 Perf board
