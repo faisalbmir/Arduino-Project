@@ -16,8 +16,7 @@ Smith, Jason Poel. “Motion Activated Water Gun Turret: Make:” Make, Make: Pr
 DIY Builder. “How To Make A DIY Arduino Obstacle Avoiding Car At Home” Online video clip. YouTube. 20 Feb. 2019,  Web, https://www.youtube.com/watch?v=1n_KjpMfVT0
 
 # Repository Contents
-All the contents in the program
-
+This repository will contain all the matrials and requirements needed to build this project. That entails the librarys that need to be installed and the materials I used, all of which will have a link if you wanted to know the exact one I used.
 # Requirements and Materials
 - Motorized Nerf gun or water gun
 
