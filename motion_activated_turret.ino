@@ -1,5 +1,15 @@
-// Here is some sample code that you can use to start the project.
-
+//  The program responsible for controlling how
+//  the motion activated turret is going to work.
+//
+//  For my water gun, I needed three relays due to
+//  the water gun being able to swivel left and 
+//  right. If the gun being used has fewer switches.
+//  the other relays on this code could be commented 
+//  out.
+//  
+//  By Jason Poel Smith
+//  Modified by Faisal Mir, 2019-12-07
+//
 int relayOne = 2;           // Relay connected to digital pin 2 
 int relayTwo = 5;           // Relay connected to digital pin 4
 int relayThree = 6;         // Relay connected to digital pin 6 
@@ -10,7 +20,7 @@ void setup()
 { 
   pinMode(relayOne, OUTPUT);       // sets the digital pin 2 as output
   pinMode(relayTwo, OUTPUT);       // sets the digital pin 4 as output 
-  pinMode(relayThree, OUTPUT);     // sets the digital pin 6 as output 
+  pinMode(relayThree, OUTPUT);     // se9ts the digital pin 6 as output 
   pinMode(motionSensorPin, INPUT); // sets the digital pin 13 as input
   
   Serial.begin(9600);
