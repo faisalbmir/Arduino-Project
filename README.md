@@ -72,7 +72,17 @@ https://www.lowes.ca/product/polycarbonate-acrylic-sheets/optix-008-in-x-8-in-x-
 How to build it.
 
 # Firmware Installation
-How to install the program onto the Arduino.
+For the motion activated water gun turret, all that needs to be done is to download the code labelled "motion_activated_turret.ino" and to upload it on the Arduino responsible for controlling the turret.
+
+For the ultrasonic car, however, three libraries need to be installed.
+
+- AFMotor Library: https://learn.adafruit.com/adafruit-motor-shield/library-install 
+
+-NewPing Library: https://github.com/livetronic/Arduino-NewPing
+
+Servo Library: https://github.com/arduino-libraries/Servo.git
+
+From the links, the zip files of those libraries need to be dowloaded first. Then in the Arduino IDE, go to Sketch >> Include Library >> Highlight the zip files that you downloaded >> Restart the Arduino IDE and it should work and upload onto the Arduino for the ultrasonic vehicle.
 
 # Usage
-How the device works.
+The ultrasonic car moves around and keeps scanning for objects in front of it. If it sees something, it will stop, look to the left and the right and redirect itself to be the best option. The motion activated water gun turret on top will try to detect movements through its PIR sensor. If it seens something move, the water gun will shoot out water but the ultrasonic vehicle will still be in motion while this is happening. The turret will stop shooting water after a little while and the whole process will repeat itself.
