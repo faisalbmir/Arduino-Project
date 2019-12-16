@@ -19,7 +19,7 @@ This repository will contain all the matrials and requirements needed to build t
 # Requirements and Materials
 - Motorized Nerf gun or water gun
 
-https://www.amazon.ca/gp/product/B00KERBL66/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+[amazon.ca](https://www.amazon.ca/gp/product/B00KERBL66/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 - Two Arduino's
 
