@@ -78,7 +78,7 @@ The servo motor needs to be connected to the shield next. It’s best to hot glu
 
 The ultrasonic sensor is to be mounted on top of the servo. I did that by cutting out the corner of an ice cream box and attaching to ultrasonic on that. I then applied a very minimal amount of hot glue on the white plastic of the servo and mounted the ultrasonic sensor on top of that. The ultrasonic sensor has four connections: VCC (power), ground, trigger pin (input) and echo pin (output). All of these need to be connected to the shield. The VCC will be connected to the 5V, ground goes to GND, the trigger pin goes to Analog pin 0 and the echo pin is on Analog pin 1. All of the pins are labeled on the shield.
 
-After all of that, an external power is required for the ultrasonic car. A battery holder with a barrel port can be attached to the Arduino to power it. I mounted the battery housing at the bottom of the acrylic sheet. Appendix G shows the ultrasonic car being completed.
+After all of that, an external power is required for the ultrasonic car. A battery holder with a barrel port can be attached to the Arduino to power it. I mounted the battery housing at the bottom of the acrylic sheet. The picture below shows the ultrasonic car being completed.
 
 ![alt text](https://i.imgur.com/qAXOShY.jpg)
 
