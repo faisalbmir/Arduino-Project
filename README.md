@@ -93,9 +93,9 @@ For the ultrasonic car, however, three libraries need to be installed.
 
 - AFMotor Library: https://learn.adafruit.com/adafruit-motor-shield/library-install 
 
--NewPing Library: https://github.com/livetronic/Arduino-NewPing
+- NewPing Library: https://github.com/livetronic/Arduino-NewPing
 
-Servo Library: https://github.com/arduino-libraries/Servo.git
+- Servo Library: https://github.com/arduino-libraries/Servo.git
 
 From the links, the zip files of those libraries need to be dowloaded first. Then in the Arduino IDE, go to Sketch >> Include Library >> Highlight the zip files that you downloaded >> Restart the Arduino IDE and it should work and upload onto the Arduino for the ultrasonic vehicle.
 
