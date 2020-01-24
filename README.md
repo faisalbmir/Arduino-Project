@@ -1,4 +1,8 @@
 # CS 207: Arduino Project
+
+Video Link of said project: https://www.youtube.com/watch?v=W4Ii7niN2v8&t=245s
+
+
 This repository is going to consist of the code used for the project I've done over the Fall 2019 semester for CS207, as well as the materials used and on how to replicate it.
 
 
